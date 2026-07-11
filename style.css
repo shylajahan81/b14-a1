@@ -1,3 +1,42 @@
-body{
-    background-colo:white;
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+button{
+    background-color: #2563eb;
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 6px;
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    cursor: pointer;
 }
