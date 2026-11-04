@@ -1,1 +1,0 @@
-"Give me a professonal layout for a developer conference website with sections for hero,speakers,agenda,and an easter message".
